@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">satunnaislukugeneraattori_2</string>
+    <string name="numerot">0</string>
+    <string name="arvottu_numero">0</string>
+    <string name="heippa_teksti">Painikkeilla voit kasvattaa lukua, nollatasen tai arpoa oman luvun</string>
+    <string name="nollaa">Nollaa</string>
+    <string name="tervehdi_kayttajaa">Tervehdi!</string>
+    <string name="randomoi">Arvonta</string>
+    <string name="kasvata">+ 1</string>
+
+</resources>
